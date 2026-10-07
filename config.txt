@@ -1,1 +1,1 @@
-"THRESHOLD = 20" 
+"THRESHOLD = 25" 
