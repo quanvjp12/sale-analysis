@@ -2,3 +2,4 @@
 "## Notes" 
 "chart: weekly revenue" 
 "sales analysis practice repo" 
+"Practicing pull requests." 
